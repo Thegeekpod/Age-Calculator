@@ -1,6 +1,11 @@
-# agecal
 
-A new Flutter project.
+# agecalculator
+
+i am supriyo kumar dey make this applicaton using flutter
+
+screen shot
+![ss1](https://user-images.githubusercontent.com/61710709/124333118-f1a85500-dbb0-11eb-85f8-a09e4093ac88.jpg)![ss](https://user-images.githubusercontent.com/61710709/124333157-0684e880-dbb1-11eb-93e6-14f59b01a99f.jpg)
+
 
 ## Getting Started
 
